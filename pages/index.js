@@ -13,7 +13,7 @@ export async function getStaticProps() {
     },
   };
 }
-
+// Completed chapter 35
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
